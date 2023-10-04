@@ -1,0 +1,14 @@
+{
+    "custom": {
+        "landingPage": {
+            "active": false
+        },
+	"appBar": {
+            "logo": "/site/public/images/familybank-logo.png", 
+            "logoHeight": 50,
+            "logoWidth": 150,
+            "background": "#00ADEE",
+            "activeBackground": "#002B3C"
+        }
+    }
+}
