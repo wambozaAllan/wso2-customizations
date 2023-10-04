@@ -29,7 +29,7 @@ const userThemes = {
                 custom: {
                     wrapperBackground: '#f9f9f9',
                     // logo: '/site/public/images/coopbank.jpg', path: wso2am-4.2.0/repository/deployment/server/webapps/publisher/site/public/images
-                    logo: '/site/public/images/cooperative-bank-of-ethiopia-logo-profit.jpg',
+                    logo: '/site/public/images/familybank-logo.png',
                     leftMenuWidth: 210,
                     contentAreaWidth: 1240,
                     drawerWidth: 250,
