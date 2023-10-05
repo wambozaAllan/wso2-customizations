@@ -49,7 +49,7 @@
 
   String headerTitle = "Family Bank API Manager";
   String pageTitle = "Family Bank API Manager";
-  String footerText = "Family Bank Limited, Kenya | With You, For Life";
+  String footerText = "Family Bank Limited, Kenya. Regulated by the Central Bank of Kenya";
   String faviconSrc = "libs/theme/assets/images/familybank-favicon.png";
   String logoSrc = null;
   String logoHeight = "50";
